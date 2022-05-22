@@ -7,13 +7,16 @@
   margin: 5px;
  }
 
+
 .banner h1 {
-	font-size: 50px;
+  color: white;
+  font-size: 30px;
+  padding-top: 150px;
 }
 
 .banner h2 {
-	font-size: 30px;
-	font-weight: lighter;
-	opacity: 0.8;
-	margin-bottom: 40px;
+  color: white;
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.9;
 }
