@@ -1,8 +1,6 @@
 .banner {
   background-image: url(../../images/allez.png);
   color: #FFD9C0;
-  background-size: cover;
-  background-position: center;
   padding-bottom: 150px;
   margin: 5px;
  }
